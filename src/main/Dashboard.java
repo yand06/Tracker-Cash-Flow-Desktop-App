@@ -835,7 +835,7 @@ public class Dashboard extends javax.swing.JFrame {
                 {null, null, null}
             },
             new String [] {
-                "Total Income", "Category Income", "Percentase"
+                "Total Income", "Category Income", "Percentage"
             }
         ));
         tabelSummary.setRowHeight(30);
